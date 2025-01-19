@@ -1,17 +1,41 @@
-# Amigo-Secreto-Challenge-ONE
-En este repositorio encontrarás una solución planteada por mí al reto de Amigo Secreto realizado por ONE.
+# Challenge ONE - Amigo Secreto
+Este proyecto consiste en una página web para realizar sorteos entre amigos. Ingresa tus amigos y presiona el botón de "Sortear Amigo" para que, de forma aleatoria, se seleccione el amigo secreto.
 
-Tecnologias usadas:
-- HTML
-- CSS
-- JS
+## Estructura del Proyecto
+├── assets <br />
+├── index.html <br />
+├── styles.css <br />
+└── app.js <br />
 
-Funcionalidades:
-- Añadir amigos al array creado desde el JS.
-- Sortear un amigo de la lista.
-- Limpiar la lista de amigos en cada sorteo.
-- Validar si la lista esta vacia antes de sortear.
-- Mensajes de error de validación.
+## Descripción de los Archivos
+- index.html: Archivo principal que contiene la estructura de la página web.
+- styles.css: Archivo para los estilos visuales de la página.
+- app.js: Archivo que implementa las funcionalidades y lógica del proyecto.
 
-Aprendizaje:
-- La verdad que fue un reto increible, agradezco al programa ONE y a Alura Latam por plantear este ejercicio, definitivamente pusé en practica todos los conocimientos que adquirí en los cursos.
+## Requisitos Previos
+Antes de comenzar, asegúrate de tener instalado lo siguiente:
+
+- Un navegador web moderno (Google Chrome, Firefox, etc.).
+- Un editor de texto o IDE (como Visual Studio Code o Sublime Text) para realizar modificaciones (opcional).
+
+### Cómo Ejecutar el Proyecto
+1. Clona este repositorio o descarga los archivos directamente:
+```bash
+git clone https://github.com/Khraizer/Amigo-Secreto-Challenge-ONE
+cd Amigo-Secreto-Challenge-ONE
+```
+
+2. Abre el archivo index.html en tu navegador web. Puedes hacerlo de las siguientes maneras:
+- Opción 1: Haz doble clic sobre el archivo index.html.
+  
+- Opción 2: Arrastra y suelta el archivo en la ventana del navegador.
+
+## Personalización
+Si deseas modificar el proyecto:
+
+- Edita el archivo index.html para ajustar el contenido de la página.
+- Modifica el archivo styles.css para cambiar los estilos visuales.
+- Actualiza el archivo app.js para agregar o ajustar funcionalidades.
+
+# Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
